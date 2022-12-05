@@ -1,5 +1,5 @@
 # Ventura Armstrong, The Pentapus
-Ventura Armstrong is the Postman Open Technologies Program Office mascot. Their pronouns are they/them. They are a pentapus (an octopus with 5, [sometimes 4](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20Pride%20nobg.png), instead of 8 arms), with a space helmet and a very supporting mindset. They are [non-binary, but have love for all](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20Pride%20nobg.png).
+Ventura Armstrong is the Postman Open Technologies Program Office mascot. Their pronouns are they/them. They are a pentapus (an octopus with 5, [sometimes 4](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20Abled%20nobg.png), instead of 8 arms), with a space helmet and a very supporting mindset. They are [non-binary, but have love for all](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20Pride%20nobg.png).
 
 ![](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20bg.png)
 
