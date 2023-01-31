@@ -1,4 +1,4 @@
-# Contributor code of conduct
+# Contributor Code of Conduct
 
 As contributors and maintainers of the Postman Open Technologies project, we pledge to respect everyone who contributes.
 
